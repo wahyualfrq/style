@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Wahyudi Alfurqon</h1>
-<h3 align="center">Informatics Student | UI/UX Designer | Front-End Developer</h3>
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wahyualfrq/style/main/banner.gif" width="100%" />
+</p>
+<h1 align="center">Hi 👋</h1>
 
 ## 🚀 About Me
 - 🎓 Mahasiswa Informatika di Universitas MDP  
@@ -26,35 +26,8 @@
 
 ---
 
-## 📌 Featured Projects
-- 🚀 **TrashIndo** → Aplikasi pelaporan sampah berbasis mobile  
-- 🏋️ **Gymfinity** → Platform fitness management  
-- 🛍️ **ThriftCycle** → Marketplace thrift modern  
-- 💬 **TanyaDoc** → Konsultasi kesehatan online  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/USERNAME" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
-<a href="https://instagram.com/USERNAME" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
-</p>
-
----
-
-## ✨ Quote
-> "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
-
----
-
-<p align="center">
-🔥 Keep Learning, Keep Building 🔥
+  <img src="https://github-readme-stats.vercel.app/api?username=wahyualfrq&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyualfrq&theme=tokyonight" />
 </p>
